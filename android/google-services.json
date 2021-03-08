@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1006823073075",
+    "firebase_url": "https://principles-6629a.firebaseio.com",
+    "project_id": "principles-6629a",
+    "storage_bucket": "principles-6629a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006823073075:android:02d60ad1de250fd66fca46",
+        "android_client_info": {
+          "package_name": "co.krxhna.principles_raydalio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006823073075-8t0de3r805v6rtud89r0ldlsjimlsuc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn4lsXbcjq4KgAKDjPeyZmFVOaaY-RqGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006823073075-8t0de3r805v6rtud89r0ldlsjimlsuc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
